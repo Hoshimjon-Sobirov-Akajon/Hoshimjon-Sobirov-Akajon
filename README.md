@@ -26,4 +26,5 @@ Men dasturlashga qiziqadigan, yangi texnologiyalarni o‘rganishni va foydali lo
 - O‘z startap loyihalarimni yaratish.
 - O‘zbekiston uchun foydali IT loyihalar ishlab chiqish.
 - Xalqaro dasturlash musobaqalarida qatnashish.
+- O‘zbekiston bo‘ylab IT maktablar ochish
 
